@@ -1,2 +1,2 @@
 # student-management-system
-A Java mini project to manage students record.
+A mini project to manage student records such as add, update, view, and delete students.
